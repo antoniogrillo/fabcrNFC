@@ -4,9 +4,7 @@
 
 # hardware:
 	raspberry pi 2
-	
-	scheda microSD 8GB
-	
+		
 	shield EXPLORE-NFC per Raspberry Pi 2 / B+
 		(https://www.element14.com/community/community/designcenter/explorenfc)
 	
