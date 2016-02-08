@@ -25,7 +25,7 @@ scaricare il software necessario dal sito element14
 decomprimerlo in una cartella e spostarsi nella cartella creata da terminale
 installare i files come segue:
 	sudo dpkg -i libneardal0_<version>_armhf.deb libwiringpi2-<version>_armhf.deb neard-explorenfc_<version>_armhf.deb
-dove “<version>” va sostituito con la reale versione contenuta nel nome del file.
+dove “<version>” va sostituito con la reale versione contenuta nel nome del file
 	
 installare wrapper "nxppy" di Scott Vitale, per l'interfacciamento tra Python e le lib. per EXPLORE-NFC 
 	https://github.com/svvitale/nxppy
